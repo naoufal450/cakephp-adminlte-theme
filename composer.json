@@ -1,5 +1,5 @@
 {
-  "name": "maiconpinto/cakephp-adminlte-theme",
+  "name": "maiconpinto2/cakephp-adminlte-theme",
   "description": "CakePHP 3.x AdminLTE Theme.",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "templates", "plugin"],
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AdminLTE\\": "src"
+      "AdminLTE2\\": "src"
     }
   },
   "support": {
