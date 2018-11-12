@@ -3,7 +3,7 @@
   "description": "CakePHP 3.x AdminLTE Theme.",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "templates", "plugin"],
-  "homepage": "https://github.com/maiconpinto/cakephp-adminlte-theme",
+  "homepage": "https://github.com/naoufal450/cakephp-adminlte-theme",
   "license": "MIT",
   "authors": [
     {
